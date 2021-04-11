@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src) hhhhhhh
 
-[Link](/1.md) and ![Image](src)
+[Link]([/1.md](https://github.com/visionTw/VisionGraphicsStudy/edit/main/1.md)) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
